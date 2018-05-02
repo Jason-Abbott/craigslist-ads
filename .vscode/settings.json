@@ -1,5 +1,7 @@
 {
   "html.format.indentInnerHtml": false,
   "html.format.wrapLineLength": 80,
-  "html.autoClosingTags": true
+  "html.autoClosingTags": false,
+  "html.format.extraLiners": null,
+  "html.format.unformatted": "wbr, b, i"
 }
