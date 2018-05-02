@@ -1,0 +1,5 @@
+{
+  "html.format.indentInnerHtml": false,
+  "html.format.wrapLineLength": 80,
+  "html.autoClosingTags": true
+}
