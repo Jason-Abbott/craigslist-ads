@@ -3,5 +3,9 @@
   "html.format.wrapLineLength": 80,
   "html.autoClosingTags": false,
   "html.format.extraLiners": null,
-  "html.format.unformatted": "wbr, b, i"
+  "html.format.unformatted": "wbr, b, i",
+  "spellright.language": "en",
+  "spellright.documentTypes": [
+    "html"
+  ]
 }
